@@ -1,0 +1,18 @@
+{
+	"private":      true,
+	"name":         "tip-ui-tip-www",
+	"description":  "Integrates the Tip Me slider into the website.",
+	"version":      "0.1.0",
+	"main":         "index.js",
+	"files":        ["index.js"],
+	"author":       "Jannis R <mail@jannisr.de>",
+	"homepage":     "https://github.com/trinkgeld/tip-ui-tip-www",
+	"repository":   "trinkgeld/tip-ui-tip-www",
+	"bugs":         "https://github.com/trinkgeld/tip-ui-tip-www/issues",
+	"license":      "GPL-3.0",
+	"engines":      {"node": ">=6"},
+	"dependencies": {
+		"tip-integrations": "trinkgeld/tip-integrations",
+		"hyperscript": "^2.0.2"
+	}
+}
