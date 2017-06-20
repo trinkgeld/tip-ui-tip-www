@@ -12,7 +12,5 @@
 	"license":      "GPL-3.0",
 	"engines":      {"node": ">=6"},
 	"dependencies": {
-		"tip-integrations": "trinkgeld/tip-integrations",
-		"hyperscript": "^2.0.2"
 	}
 }
